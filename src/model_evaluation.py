@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_a
 import logging
 
 ## Ensure the log directory exists
-log_dirs="log"
+log_dirs="logs"
 os.makedirs(log_dirs,exist_ok=True)
 
 ## Logging Configuration
