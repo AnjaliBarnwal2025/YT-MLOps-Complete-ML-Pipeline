@@ -1,0 +1,4 @@
+[core]
+    remote = koibhinaam
+['remote "koibhinaam"']
+    url = s3://mymlopsbucket567
